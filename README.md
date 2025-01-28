@@ -10,7 +10,7 @@
 
 Для этого вам нужно сначала сделать fork репозитория:
 
-![image](https://github.com/user-attachments/assets/62e32ef7-8538-4dd9-9256-73b4486301bf)
+![image](https://github.com/user-attachments/assets/ae5706ed-3eae-4b8e-9547-ea65ecdbde6f)
 
 У вас создаться ваш, новый репозиторий. В нём вам нужно создать новую ветку. (git checkout <название ветки>).
 Добавляем вашу реализацию пазла в папку puzzles. После чего редактируем main.index в корне проекта. Всё что вам нужно там добавить:
